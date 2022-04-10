@@ -1,3 +1,5 @@
 This a cat file
 
 This is an update to the cat file
+
+another merge test
