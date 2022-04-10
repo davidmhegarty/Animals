@@ -2,6 +2,8 @@ This a cat file
 
 This is an update to the cat file
 
+<<<<<<< HEAD
 new merge option
-
+=======
 another merge test
+>>>>>>> 7e8af9253c334772b7a2cb389c0ffb3af4d941da
