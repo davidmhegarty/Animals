@@ -1,7 +1,7 @@
 This is a dog file
 
-<<<<<<< HEAD
+
 This is an update to the dog file.
-=======
+
 This is a conflicting update to the dog file
->>>>>>> fb7cde323ba867038df503835fb27d6eae37eeca
+
